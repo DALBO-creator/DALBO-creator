@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently in my fourth year at ITIS Benedetto Castelli in Brescia, focusing on honing my technical abilities. My main skills lie in programming (C++, Java, Python) and front-end web creation (HTML, CSS, JavaScript). Additionally, I am self-learning Node.js and Express.js. I also possess design skills and have experience with software such as Figma and GIMP."
+"I am currently in my fourth year at ITIS Benedetto Castelli in Brescia, focusing on honing my technical abilities. My main skills lie in programming (C++, Java, Python) and front-end web creation (HTML, CSS, JavaScript). Additionally, I am self-learning Node.js and Express.js. I also have experience in designing and configuring network infrastructures using Cisco Packet Tracer. Furthermore, I possess design skills and am proficient with software such as Figma and GIMP."
 
 
 ## 🌐 Socials:
