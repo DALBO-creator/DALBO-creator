@@ -1,5 +1,11 @@
 # About Me:
-"I am currently in my fourth year at ITIS Benedetto Castelli in Brescia, focusing on honing my technical abilities. My main skills lie in programming (C++, Java, Python) and front-end web creation (HTML, CSS, JavaScript). Additionally, I am self-learning wordpress and PHP. I also have experience in designing and configuring network infrastructures using Cisco Packet Tracer. Furthermore, I possess design skills and am proficient with software such as Figma and GIMP."
+I am currently in my fourth year at ITIS Benedetto Castelli in Brescia, where I am continuously developing and refining my technical skills. My core competencies include programming in C++, Java, and Python, as well as front-end web development using HTML, CSS, and JavaScript.
+
+I also have experience in back-end development with Node.js and Express.js, enabling me to build complete full-stack web applications. Additionally, I am confident in using JavaScript libraries and frameworks such as Bootstrap and Popper to create responsive and dynamic user interfaces.
+
+Alongside my academic studies, I am self-learning WordPress and PHP to broaden my web development expertise. I also have experience in designing and configuring network infrastructures using Cisco Packet Tracer.
+
+Furthermore, I possess strong design skills and am proficient in tools such as Figma and GIMP.
 
 # Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white).![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
