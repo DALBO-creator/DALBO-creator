@@ -1,9 +1,11 @@
 # About Me:
-I am currently in my fourth year at ITIS Benedetto Castelli in Brescia, where I am continuously developing and refining my technical skills. My core competencies include programming in C++, Java, and Python, as well as front-end web development using HTML, CSS, and JavaScript.
+I am currently in my fourth year at ITIS Benedetto Castelli in Brescia, where I am continuously developing and refining my technical skills. My core competencies include programming in C++, Java, Php and Python, as well as front-end web development using HTML, CSS, and JavaScript.
 
-I also have experience in back-end development with Node.js and Express.js, enabling me to build complete full-stack web applications. Additionally, I am confident in using JavaScript libraries and frameworks such as Bootstrap and Popper to create responsive and dynamic user interfaces.
+I also have experience in back-end development with Node.js, Express.js, Python and Typescript enabling me to build complete full-stack web applications. Additionally, I am confident in using JavaScript libraries and frameworks such as Bootstrap and Popper to create responsive and dynamic user interfaces.
 
-Alongside my academic studies, I am self-learning WordPress and PHP to broaden my web development expertise. I also have experience in designing and configuring network infrastructures using Cisco Packet Tracer.
+Additionaly, I often use DataBase such as MariaDB and Supabase.
+
+I also have experience in designing and configuring network infrastructures using Cisco Packet Tracer.
 
 Furthermore, I possess strong design skills and am proficient in tools such as Figma and GIMP.
 
